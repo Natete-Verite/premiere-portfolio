@@ -42,7 +42,8 @@ p {
 	text-align: center;
 }
 .section-title span {
-	color: rgb(81,50,44);
+	/* color: rgb(81,50,44); */
+	color: #fff;
 }
 
 .cta {
@@ -68,7 +69,8 @@ p {
 	color: white;
 }
 .brand h1 span {
-	color: rgb(81,50,44);
+	/* color: rgb(81,50,44); */
+	color: #fff;
 }
 
 /* Header section */
@@ -594,7 +596,8 @@ p {
 }
 @keyframes text_reveal_name {
 	100% {
-		color: rgb(81,50,44);
+		/* color: rgb(81,50,44); */
+		color: #fff;
 		font-weight: 500;
 	}
 }
